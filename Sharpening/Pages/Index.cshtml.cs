@@ -19,7 +19,6 @@ namespace Sharpening.Pages
 
         public void OnGet()
         {
-
         }
     }
 }
